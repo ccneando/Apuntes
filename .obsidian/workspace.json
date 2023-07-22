@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cisco/CCNA/Swtich L2 y L3/MODO CONFIG.md",
+                "file": "EC-Council/Ethical Hacking Essentials/prueba.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cisco/CCNA/Swtich L2 y L3/MODO CONFIG.md",
+                "file": "EC-Council/Ethical Hacking Essentials/prueba.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cisco/CCNA/Swtich L2 y L3/MODO CONFIG.md",
+                "file": "EC-Council/Ethical Hacking Essentials/prueba.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cisco/CCNA/Swtich L2 y L3/MODO CONFIG.md"
+                "file": "EC-Council/Ethical Hacking Essentials/prueba.md"
               }
             }
           }
@@ -149,9 +149,10 @@
   },
   "active": "beefcef19c4a088c",
   "lastOpenFiles": [
+    "Cisco/CCNA/Swtich L2 y L3/MODO CONFIG.md",
+    "EC-Council/Ethical Hacking Essentials/prueba.md",
     "LICENSE",
     "Cisco/CCNA/Swtich L2 y L3/MODO ENA.md",
-    "Cisco/CCNA/Swtich L2 y L3/MODO CONFIG.md",
     "Nmap",
     "Parrot Os",
     "Cisco/CCNA/Wifi",
@@ -162,7 +163,6 @@
     "hack4u.io/Introducción al hacking",
     "hack4u.io",
     "EC-Council/Ethical Hacking Essentials",
-    "Cisco/CyberOps",
-    "Cisco/CCNA"
+    "Cisco/CyberOps"
   ]
 }
