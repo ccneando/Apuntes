@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": " ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -147,7 +147,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "beefcef19c4a088c",
+  "active": "7c56aeb74ebeaae4",
   "lastOpenFiles": [
     "Enlaces de Interés/Enlaces de interés.md",
     "Enlaces de Interés",
