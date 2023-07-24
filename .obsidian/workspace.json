@@ -11,8 +11,12 @@
             "id": "7c56aeb74ebeaae4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Enlaces de Interés/Enlaces de interés.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Enlaces de Interés/Enlaces de interés.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Enlaces de Interés/Enlaces de interés.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Enlaces de Interés/Enlaces de interés.md"
+              }
             }
           }
         ]
@@ -139,8 +147,12 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "7c56aeb74ebeaae4",
+  "active": "beefcef19c4a088c",
   "lastOpenFiles": [
+    "Enlaces de Interés/Enlaces de interés.md",
+    "Enlaces de Interés",
+    "CVSS",
+    "OpenVas",
     "EC-Council/Ethical Hacking Essentials/prueba.md",
     "Cisco/CCNA/Swtich L2 y L3/MODO CONFIG.md",
     "LICENSE",
@@ -152,9 +164,6 @@
     "Cisco/CCNA/Router",
     "Untitled.canvas",
     "Untitled.md",
-    "hack4u.io/Introducción al hacking",
-    "hack4u.io",
-    "EC-Council/Ethical Hacking Essentials",
-    "Cisco/CyberOps"
+    "hack4u.io/Introducción al hacking"
   ]
 }
