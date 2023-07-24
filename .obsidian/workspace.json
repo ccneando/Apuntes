@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Enlaces de Interés/Enlaces de interés.md",
+                "file": "Cisco/CCNA/Router/MODO CONFIG.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Enlaces de Interés/Enlaces de interés.md",
+                "file": "Cisco/CCNA/Router/MODO CONFIG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Enlaces de Interés/Enlaces de interés.md",
+                "file": "Cisco/CCNA/Router/MODO CONFIG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Enlaces de Interés/Enlaces de interés.md"
+                "file": "Cisco/CCNA/Router/MODO CONFIG.md"
               }
             }
           }
@@ -149,6 +149,8 @@
   },
   "active": "7c56aeb74ebeaae4",
   "lastOpenFiles": [
+    "Cisco/CCNA/Router/MODO ENA.md",
+    "Cisco/CCNA/Router/MODO CONFIG.md",
     "Enlaces de Interés/Enlaces de interés.md",
     "Enlaces de Interés",
     "CVSS",
