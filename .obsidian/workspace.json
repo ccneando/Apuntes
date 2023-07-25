@@ -147,8 +147,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "7c56aeb74ebeaae4",
+  "active": "beefcef19c4a088c",
   "lastOpenFiles": [
+    "HackTheBox/Máquinas",
+    "HackTheBox",
     "Parrot Os/prueba.md",
     "Cisco/CCNA/Router/MODO CONFIG.md",
     "Cisco/CCNA/Router/MODO ENA.md",
@@ -166,7 +168,6 @@
     "Cisco/CCNA/Swtich L2 y L3",
     "Cisco/CCNA/Router",
     "Untitled.canvas",
-    "Untitled.md",
-    "hack4u.io/Introducción al hacking"
+    "Untitled.md"
   ]
 }
