@@ -1,18 +1,22 @@
 {
   "main": {
-    "id": "baf1ef66afa0a580",
+    "id": "e0cf180b4ce74490",
     "type": "split",
     "children": [
       {
-        "id": "e19825e178d6d33b",
+        "id": "465e1c8b1b10eb65",
         "type": "tabs",
         "children": [
           {
-            "id": "7c56aeb74ebeaae4",
+            "id": "d46bc7c172201ffd",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Herramientas HACKING/Nmap/COMANDOS.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -21,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "042d3cd133dcceb6",
+    "id": "3e47a579320507da",
     "type": "split",
     "children": [
       {
-        "id": "86d5473fd75f1c07",
+        "id": "d01ad535695e866c",
         "type": "tabs",
         "children": [
           {
-            "id": "beefcef19c4a088c",
+            "id": "90ffa6cd36cf24ea",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,12 +43,12 @@
             }
           },
           {
-            "id": "f6ff6e5dee4beb5a",
+            "id": "226c6ce94e87fc0b",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": " ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -54,7 +58,7 @@
             }
           },
           {
-            "id": "cbf84fa338efa3a9",
+            "id": "8766a90f14913a4d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -68,19 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "e264d326cf92f80e",
+    "id": "4ba62089f945f325",
     "type": "split",
     "children": [
       {
-        "id": "06c6a650dcfac7cb",
+        "id": "02f66b8c41a32b7c",
         "type": "tabs",
         "children": [
           {
-            "id": "e01050e0b2db974e",
+            "id": "865e14f6651797d7",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Herramientas HACKING/Nmap/COMANDOS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,18 +97,19 @@
             }
           },
           {
-            "id": "a82ddd56d6949694",
+            "id": "6b5e43f5ad0f7f86",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Herramientas HACKING/Nmap/COMANDOS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "75ab736986795518",
+            "id": "af9b602626fbf294",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,11 +120,13 @@
             }
           },
           {
-            "id": "809aab54be901def",
+            "id": "9a2cd883870a93e3",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Herramientas HACKING/Nmap/COMANDOS.md"
+              }
             }
           }
         ]
@@ -130,35 +138,28 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir quick switcher": false,
-      "graph:Abrir vista de gráfico": false,
+      "obsidian42-brat:BRAT": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "obsidian42-brat:BRAT": false
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "7c56aeb74ebeaae4",
+  "active": "90ffa6cd36cf24ea",
   "lastOpenFiles": [
-    "EC-Council/Ethical Hacking Essentials/prueba.md",
-    "HackTheBox/Máquinas",
-    "HackTheBox",
-    "Parrot Os/prueba.md",
-    "Cisco/CCNA/Router/MODO CONFIG.md",
+    "Herramientas REDES/ARP-SCAN/¿Qué es?.md",
+    "Herramientas HACKING/Nmap/COMANDOS.md",
+    "Herramientas REDES/SUBNETTING",
+    "Herramientas REDES/ARP-SCAN/Comandos.md",
+    "Herramientas REDES/MACCHANGER",
     "Cisco/CCNA/Router/MODO ENA.md",
-    "Enlaces de Interés/Enlaces de interés.md",
-    "Enlaces de Interés",
-    "CVSS",
-    "OpenVas",
-    "Cisco/CCNA/Swtich L2 y L3/MODO CONFIG.md",
-    "LICENSE",
+    "Herramientas REDES/ARP-SCAN",
+    "Herramientas REDES",
+    "Herramientas HACKING",
+    "Cisco/CCNA/Router/MODO CONFIG.md",
     "Cisco/CCNA/Swtich L2 y L3/MODO ENA.md",
-    "Nmap",
-    "Parrot Os",
-    "Cisco/CCNA/Wifi",
-    "Cisco/CCNA/Swtich L2 y L3",
-    "Untitled.canvas",
-    "Untitled.md"
+    "Cisco/CCNA/Swtich L2 y L3/MODO CONFIG.md"
   ]
 }
