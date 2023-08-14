@@ -24,8 +24,10 @@
 
 #13 -sV (detectar servicio y versión de los puertos que tiene que analizar)
 
-#14
-#14
+#14 -f (ALTAMENTE RECOMENDADO -sirve para fragmentar los paquetes y así evadir los firewall y tener información de puertos en estado "Filtrado")
+
+#15 --mtu (es igual que #14 pero aquí puedes especificar el tamaño de fragmento a enviar, siempre que sean múltiplos de 8)
+
 #14
 #14
 #14
