@@ -30,7 +30,15 @@
 
 #15 --mtu (nunca combinar con #14)(es igual que #14 pero aquí puedes especificar el tamaño de fragmento a enviar, siempre que sean múltiplos de 8)
 
-#14
+#16 (xxx.xxx.xxx.xxx IP de destino) -D (xxx.xxx.xxx.xxx ip de señuelo)
+Esto se hace por que hay reglas en el firewall que solo permiten que cierta IP pueda ver si un puerto está abierto - es una filtración de la ip de origen.
+
+
+
+
+
+
+
 #14
 #14
 #14
