@@ -6,7 +6,7 @@
 
 #4 -v (modo verbose)
 
-#5 -n (deshabilitas la resolución DNS)
+#5 -n (deshabilitas la resolución DNS -algo recomendado - tardas menos y levantas menos sospechas)
 
 #6 -TX (0-Paranoico 1-sigiloso (evadir IDS) 2-amable 3-Normal 4-Agresivo 5-Loco) A mayor nº más rápido será pero también menos fiable y mas posible que te detecten
 
@@ -23,6 +23,26 @@
 #12 -sn XX.XXX.XXX.XXX/XX (barrido de ping para saber que hosts están activos )
 
 #13 -sV (detectar servicio y versión de los puertos que tiene que analizar)
+
+#14
+#14
+#14
+#14
+#14
+#14
+#14
+#14
+#14
+#14
+#14
+#14
+#14
+#14
+#14
+#14
+#14
+#14
+#14
 
 
 
