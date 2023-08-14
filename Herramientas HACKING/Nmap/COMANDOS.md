@@ -4,7 +4,7 @@
 
 #3 --open (te lista solo puertos abiertos)
 
-#4 -v (modo verbose)
+#4 -v (modo verbose - información descriptiva en tiempo real)
 
 #5 -n (deshabilitas la resolución DNS -algo recomendado - tardas menos y levantas menos sospechas)
 
@@ -12,7 +12,7 @@
 
 #7 -pXX (analizas el nº de puerto especificado)
 
-#8 -Pn (antes de realizar el mapeo comprueba que el host está activo TCP)
+#8 -Pn (considera que el host o puerto está activo )
 
 #9 -sS (envía un SYN y espera respuesta -si se recibe el SYN/ACK es puerto abierto, si es RST no hay nada)
 
@@ -31,13 +31,23 @@
 #15 --mtu (nunca combinar con #14)(es igual que #14 pero aquí puedes especificar el tamaño de fragmento a enviar, siempre que sean múltiplos de 8)
 
 #16 (xxx.xxx.xxx.xxx IP de destino) -D (xxx.xxx.xxx.xxx ip de señuelo)
-Esto se hace por que hay reglas en el firewall que solo permiten que cierta IP pueda ver si un puerto está abierto - es una filtración de la ip de origen.
+(Esto se hace por que hay reglas en el firewall que solo permiten que cierta IP pueda ver si un puerto está abierto -  sería falsificar la IP de origen¡)
 
+#17 --source-port XX (especificas el puerto por el que quieres que se envíen los datos, en vez de uno aleatorio.)
 
+#18 --data-length XX (58+XX)algunos firewall reconocen el tamaño de los datos y lo bloquean, con esto lo que haremos será agregar mayor tamaño para evitar esa detección/bloqueo)
 
+#19 --spoof-mac XXXXXXXX (hay equipos que solo aceptan datos cuando vienen de una MAC en concreto, con esto lo que haríamos sería falsificarla)
 
+#20 -sS (no se llega a completar la conexión y por lo tanto no queda registro ni alertas en muchos firewall / SYN - SYN-ACK/RST)
 
+#21 --min-rate XXXX (Esta técnica permite al usuario controlar la velocidad de los paquetes enviados para evitar la detección del Firewall. 5000 está bien.)
 
+#22 -sC  (análisis actual del conjunto por defecto de scripts (algunos pueden ser intrusivos).
+
+#23 --script "XXXXX" (con esto lanzamos los scripts basados en su categoría)
+
+#24 --script XXXX (ejecutas un script en concreto)
 
 #14
 #14
@@ -55,6 +65,35 @@ Esto se hace por que hay reglas en el firewall que solo permiten que cierta IP p
 #14
 #14
 #14
+#14
+#14
+#14
+#14
+#14
+#14
+#14
+#14
+#14
+#14
+#14
+#14
+#14
+#14
+#14
+#14
+#14
+#14
+#14
+#14
+#14
+#14
+#14
+#14
+#14
+#14
+#14
+#14
+
 
 
 
