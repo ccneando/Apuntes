@@ -8,3 +8,10 @@ intelx.io/ (datos de contacto)
 =======DICCIONARIOS===== 
 Seclist: https://github.com/danielmiessler/SecLists
 
+-Hacking con google 
+pentest-tools.com
+
+-BBDD exploit
+exploit-db.com
+
+
