@@ -1,0 +1,1 @@
+python3 sublist3r -d XXXX.XX (dominio a analizar para saber el listado de subdominios)
