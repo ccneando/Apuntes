@@ -26,5 +26,15 @@ docker exec -it (interavo / terminal ) XXXXX (nombre del container creado) bash 
 -Parar un container
 docker stop XXXXXX (id del container)
 
--Borrar un container
+-Borrar un container que no esté activo /no se borra la imagen
 docker rm XXXXX (id del container)
+
+-Borrar un container que SI esté activo /no se borra la imagen
+docker rm XXXXX (id del container) --force
+
+-Borrar una imagen
+docker rmi XXXX (id de la imagen )
+
+-borrar todas las imagenes
+docker images -q (muestra los id de las imagenes)
+docker rmi $(docker images -q)
