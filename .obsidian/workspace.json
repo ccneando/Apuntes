@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Enlaces de Interés/Enlaces de interés.md",
+                "file": "Herramientas HACKING/LISTADO DE SUBDOMINIOS/CTFR/Comandos.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Enlaces de Interés/Enlaces de interés.md",
+                "file": "Herramientas HACKING/LISTADO DE SUBDOMINIOS/CTFR/Comandos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Enlaces de Interés/Enlaces de interés.md",
+                "file": "Herramientas HACKING/LISTADO DE SUBDOMINIOS/CTFR/Comandos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Enlaces de Interés/Enlaces de interés.md"
+                "file": "Herramientas HACKING/LISTADO DE SUBDOMINIOS/CTFR/Comandos.md"
               }
             }
           }
@@ -147,8 +147,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d46bc7c172201ffd",
+  "active": "90ffa6cd36cf24ea",
   "lastOpenFiles": [
+    "Herramientas HACKING/LISTADO DE SUBDOMINIOS",
+    "Herramientas HACKING/LISTADO DE SUBDOMINIOS/wfuzz",
+    "Herramientas HACKING/LISTADO DE SUBDOMINIOS/gobuster/Comandos.md",
+    "Herramientas HACKING/LISTADO DE SUBDOMINIOS/CTFR/Comandos.md",
+    "Herramientas HACKING/LISTADO DE SUBDOMINIOS/gobuster",
+    "Enlaces de Interés/Enlaces de interés.md",
+    "Herramientas HACKING/LISTADO DE SUBDOMINIOS/CTFR",
     "Herramientas REDES/ARP-SCAN/Comandos.md",
     "Herramientas HACKING/Nmap/COMANDOS.md",
     "Herramientas HACKING/Nmap/SCRIPTS.md",
