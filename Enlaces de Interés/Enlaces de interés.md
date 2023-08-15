@@ -4,3 +4,5 @@
 
 hunter.io (averiguar direcciones de correo)
 intelx.io/ (datos de contacto)
+
+Seclist: https://github.com/danielmiessler/SecLists
