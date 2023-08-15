@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Herramientas HACKING/Forenxia/Metadatos - Archivos/exiftool/Comandos.md",
+                "file": "DOCKER/Comandos.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Herramientas HACKING/Forenxia/Metadatos - Archivos/exiftool/Comandos.md",
+                "file": "DOCKER/Comandos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Herramientas HACKING/Forenxia/Metadatos - Archivos/exiftool/Comandos.md",
+                "file": "DOCKER/Comandos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Herramientas HACKING/Forenxia/Metadatos - Archivos/exiftool/Comandos.md"
+                "file": "DOCKER/Comandos.md"
               }
             }
           }
@@ -147,14 +147,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "90ffa6cd36cf24ea",
+  "active": "d46bc7c172201ffd",
   "lastOpenFiles": [
-    "Herramientas HACKING/Forenxia/Metadatos - Archivos",
+    "Herramientas HACKING/Redes/Nmap/COMANDOS.md",
+    "DOCKER/Comandos.md",
+    "DOCKER",
     "Herramientas HACKING/LISTADO DE SUBDOMINIOS/gobuster/Comandos.md",
+    "Enlaces de Interés/Enlaces de interés.md",
     "Herramientas HACKING/Forenxia/Metadatos - Archivos/exiftool/Comandos.md",
+    "Herramientas HACKING/Forenxia/Metadatos - Archivos",
     "Herramientas HACKING/Forenxia/Metadatos - Archivos/exiftool",
     "Herramientas HACKING/Forenxia",
-    "Enlaces de Interés/Enlaces de interés.md",
     "Herramientas HACKING/Tecnologías web/Whatweb/Commando.md",
     "Herramientas HACKING/LISTADO DE SUBDOMINIOS/CTFR/Comandos.md",
     "Herramientas HACKING/Tecnologías web/Whatweb",
@@ -164,10 +167,7 @@
     "Herramientas HACKING/LISTADO DE SUBDOMINIOS/Sublist3r",
     "Herramientas HACKING/LISTADO DE SUBDOMINIOS",
     "Herramientas HACKING/LISTADO DE SUBDOMINIOS/wfuzz",
-    "Herramientas HACKING/LISTADO DE SUBDOMINIOS/gobuster",
-    "Herramientas HACKING/LISTADO DE SUBDOMINIOS/CTFR",
     "Herramientas REDES/ARP-SCAN/Comandos.md",
-    "Herramientas HACKING/Redes/Nmap/COMANDOS.md",
     "Herramientas HACKING/Redes/Nmap/SCRIPTS.md",
     "Herramientas REDES/ARP-SCAN/¿Qué es?.md",
     "Cisco/CCNA/Router/MODO ENA.md",
