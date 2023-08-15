@@ -1,0 +1,1 @@
+exiftool XXXX (ruta y nombre del archivo)
