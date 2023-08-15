@@ -1,1 +1,0 @@
-whatweb XXXXX (introducir la direccion web)
