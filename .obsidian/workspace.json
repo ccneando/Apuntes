@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Herramientas HACKING/LISTADO DE SUBDOMINIOS/CTFR/Comandos.md",
+                "file": "Herramientas HACKING/Tecnología web/Whatweb/Commando.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Herramientas HACKING/LISTADO DE SUBDOMINIOS/CTFR/Comandos.md",
+                "file": "Herramientas HACKING/Tecnología web/Whatweb/Commando.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Herramientas HACKING/LISTADO DE SUBDOMINIOS/CTFR/Comandos.md",
+                "file": "Herramientas HACKING/Tecnología web/Whatweb/Commando.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Herramientas HACKING/LISTADO DE SUBDOMINIOS/CTFR/Comandos.md"
+                "file": "Herramientas HACKING/Tecnología web/Whatweb/Commando.md"
               }
             }
           }
@@ -147,10 +147,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d46bc7c172201ffd",
+  "active": "90ffa6cd36cf24ea",
   "lastOpenFiles": [
-    "Herramientas HACKING/LISTADO DE SUBDOMINIOS/Sublist3r/COMANDOS.md",
     "Herramientas HACKING/LISTADO DE SUBDOMINIOS/CTFR/Comandos.md",
+    "Herramientas HACKING/Tecnología web/Whatweb/Commando.md",
+    "Herramientas HACKING/Tecnología web/Whatweb",
+    "Herramientas HACKING/Redes",
+    "Herramientas HACKING/Tecnología web",
+    "Herramientas HACKING/LISTADO DE SUBDOMINIOS/Sublist3r/COMANDOS.md",
     "Enlaces de Interés/Enlaces de interés.md",
     "Herramientas HACKING/LISTADO DE SUBDOMINIOS/Sublist3r",
     "Herramientas HACKING/LISTADO DE SUBDOMINIOS",
@@ -159,15 +163,12 @@
     "Herramientas HACKING/LISTADO DE SUBDOMINIOS/gobuster",
     "Herramientas HACKING/LISTADO DE SUBDOMINIOS/CTFR",
     "Herramientas REDES/ARP-SCAN/Comandos.md",
-    "Herramientas HACKING/Nmap/COMANDOS.md",
-    "Herramientas HACKING/Nmap/SCRIPTS.md",
+    "Herramientas HACKING/Redes/Nmap/COMANDOS.md",
+    "Herramientas HACKING/Redes/Nmap/SCRIPTS.md",
     "Herramientas REDES/ARP-SCAN/¿Qué es?.md",
     "Herramientas REDES/SUBNETTING",
     "Herramientas REDES/MACCHANGER",
     "Cisco/CCNA/Router/MODO ENA.md",
-    "Herramientas REDES/ARP-SCAN",
-    "Herramientas REDES",
-    "Herramientas HACKING",
     "Cisco/CCNA/Router/MODO CONFIG.md",
     "Cisco/CCNA/Swtich L2 y L3/MODO ENA.md",
     "Cisco/CCNA/Swtich L2 y L3/MODO CONFIG.md"
