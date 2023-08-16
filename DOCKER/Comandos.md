@@ -3,7 +3,14 @@ FROM XXX (nombre de la imagen)
 
 MAINTAINER XXXXXX (quien está detrás de todo esto)
 
-RUN XXXXXXX (estos comandos se ejecutarán nada mas crear el container)
+RUN XXXXXXX (comandos de instalación de software)
+ENV DEBIAN_FRONTEND noninteractive (deshabilitas el modo interactivo)
+EXPOSE xx (numero de puerto que quieres exponer)
+ENTRYPOINT XXXXX(comandos que ejecutará nada mas arrancar el docker)
+
+
+
+
 
 -Construir una imagen de Docker desde un "DockerFile"
 docker build -t XXX (descargará la imagen con esa etiqueta) XXXX (ruta del Docker File)
