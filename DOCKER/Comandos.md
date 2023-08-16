@@ -45,3 +45,7 @@ docker rmi XXXX (id de la imagen )
 -borrar todas las imagenes
 docker images -q (muestra los id de las imagenes)
 docker rmi $(docker images -q)
+
+-p XX:XX  (le indicas que el puerto de la máquina es la de origen del container  )
+
+-v XXXXXX:XXXXXX (ruta que quieres tener montada en la ruta de dentro del container)
