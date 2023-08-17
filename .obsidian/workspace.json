@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Herramientas HACKING/Certificados/sslscan/Comandos.md",
+                "file": "Herramientas HACKING/Samba/smbmap/Commandos.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Herramientas HACKING/Certificados/sslscan/Comandos.md",
+                "file": "Herramientas HACKING/Samba/smbmap/Commandos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Herramientas HACKING/Certificados/sslscan/Comandos.md",
+                "file": "Herramientas HACKING/Samba/smbmap/Commandos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Herramientas HACKING/Certificados/sslscan/Comandos.md"
+                "file": "Herramientas HACKING/Samba/smbmap/Commandos.md"
               }
             }
           }
@@ -147,11 +147,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "90ffa6cd36cf24ea",
+  "active": "d46bc7c172201ffd",
   "lastOpenFiles": [
+    "Herramientas HACKING/Samba/smbclient/Comandos.md",
+    "Herramientas HACKING/Samba/smbmap/Commandos.md",
+    "Herramientas HACKING/Samba/smbmap",
+    "Herramientas HACKING/Samba/Untitled.md",
+    "Herramientas HACKING/Samba/smbclient",
+    "Herramientas HACKING/Redes/Nmap/COMANDOS.md",
+    "Herramientas HACKING/Certificados/sslscan/Comandos.md",
     "Herramientas HACKING/Samba",
     "Herramientas HACKING/Certificados/sslyze/Comandos.md",
-    "Herramientas HACKING/Certificados/sslscan/Comandos.md",
     "Herramientas HACKING/Certificados/sslscan",
     "Herramientas HACKING/Certificados/Openssl/Commandos.md",
     "Herramientas HACKING/Certificados/sslyze",
@@ -164,15 +170,11 @@
     "Herramientas REDES/ARP-SCAN/Comandos.md",
     "Herramientas REDES/ARP-SCAN/¿Qué es?.md",
     "Herramientas HACKING/Fuerza Bruta/Hydra/Comandos.md",
-    "Herramientas HACKING/Redes/Nmap/COMANDOS.md",
     "Herramientas HACKING/Fuerza Bruta/Hydra",
     "Herramientas HACKING/Fuerza Bruta",
     "Virtualización/DOCKER/Comandos.md",
-    "Virtualización/DOCKER",
     "Herramientas HACKING/LISTADO DE SUBDOMINIOS/gobuster/Comandos.md",
     "Herramientas HACKING/Forenxia/Metadatos - Archivos/exiftool/Comandos.md",
-    "Herramientas HACKING/Forenxia/Metadatos - Archivos",
-    "Herramientas HACKING/Forenxia/Metadatos - Archivos/exiftool",
     "Herramientas HACKING/Tecnologías web/Whatweb/Commando.md",
     "Herramientas HACKING/LISTADO DE SUBDOMINIOS/CTFR/Comandos.md",
     "Herramientas HACKING/LISTADO DE SUBDOMINIOS/Sublist3r/COMANDOS.md",
