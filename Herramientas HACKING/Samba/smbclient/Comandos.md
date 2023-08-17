@@ -1,0 +1,1 @@
+smbclient -L XXXX (ip del equipo a listar los recursos) -N (cuando no disponemos de credenciales)
