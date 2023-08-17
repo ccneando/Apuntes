@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Enlaces de Interés/Enlaces de interés.md",
+                "file": "CMS/Wordpress/wpscan/¿Qué es?.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Enlaces de Interés/Enlaces de interés.md",
+                "file": "CMS/Wordpress/wpscan/¿Qué es?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Enlaces de Interés/Enlaces de interés.md",
+                "file": "CMS/Wordpress/wpscan/¿Qué es?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Enlaces de Interés/Enlaces de interés.md"
+                "file": "CMS/Wordpress/wpscan/¿Qué es?.md"
               }
             }
           }
@@ -149,28 +149,29 @@
   },
   "active": "d46bc7c172201ffd",
   "lastOpenFiles": [
+    "CMS/Wordpress/wpscan/Comandos.md",
+    "CMS/Wordpress/wpscan/¿Qué es?.md",
+    "Enlaces de Interés/Enlaces de interés.md",
+    "CMS/Wordpress/wpscan",
+    "CMS/Dropal",
+    "CMS/Joomla",
+    "CMS/Wordpress",
+    "CMS",
     "WINDOWS/SERVER",
     "WINDOWS/DHCP",
     "WINDOWS/AD",
     "WINDOWS/Untitled.md",
-    "Enlaces de Interés/Enlaces de interés.md",
     "LINUX/Comandos.md",
     "Herramientas HACKING/Samba/smbclient/Comandos.md",
     "Parrot Os/prueba.md",
     "LINUX",
     "WINDOWS",
     "Untitled.md",
-    "SERVIDOR S.O.",
-    "Escritorio",
     "Herramientas HACKING/Samba/smbmap/Commandos.md",
-    "Herramientas HACKING/Samba/smbmap",
     "Herramientas HACKING/Samba/Untitled.md",
-    "Herramientas HACKING/Samba/smbclient",
     "Herramientas HACKING/Redes/Nmap/COMANDOS.md",
     "Herramientas HACKING/Certificados/sslscan/Comandos.md",
-    "Herramientas HACKING/Samba",
     "Herramientas HACKING/Certificados/sslyze/Comandos.md",
-    "Herramientas HACKING/Certificados/sslscan",
     "Herramientas HACKING/Certificados/Openssl/Commandos.md",
     "EC-Council/Ethical Hacking Essentials/prueba.md",
     "Herramientas HACKING/Fuerza Bruta/Hydra/¿Qué es?.md",
@@ -183,7 +184,6 @@
     "Herramientas HACKING/Tecnologías web/Whatweb/Commando.md",
     "Herramientas HACKING/LISTADO DE SUBDOMINIOS/CTFR/Comandos.md",
     "Herramientas HACKING/LISTADO DE SUBDOMINIOS/Sublist3r/COMANDOS.md",
-    "Herramientas HACKING/Redes/Nmap/SCRIPTS.md",
-    "Cisco/CCNA/Router/MODO ENA.md"
+    "Herramientas HACKING/Redes/Nmap/SCRIPTS.md"
   ]
 }
