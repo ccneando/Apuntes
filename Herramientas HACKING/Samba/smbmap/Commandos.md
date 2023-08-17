@@ -1,0 +1,1 @@
+smbmap -H xxxxxxxx (direccion ip del host para listar los recursos)
