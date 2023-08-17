@@ -18,3 +18,6 @@ https://github.com/garethflowers/docker-ftp-server
 
 https://github.com/metabrainz/docker-anon-ftp
 
+https://github.com/Porchetta-Industries/CrackMapExec
+
+https://github.com/vulhub/vulhub
