@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Herramientas HACKING/Samba/smbclient/Comandos.md",
+                "file": "Enlaces de Interés/Enlaces de interés.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Herramientas HACKING/Samba/smbclient/Comandos.md",
+                "file": "Enlaces de Interés/Enlaces de interés.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Herramientas HACKING/Samba/smbclient/Comandos.md",
+                "file": "Enlaces de Interés/Enlaces de interés.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Herramientas HACKING/Samba/smbclient/Comandos.md"
+                "file": "Enlaces de Interés/Enlaces de interés.md"
               }
             }
           }
@@ -147,10 +147,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "90ffa6cd36cf24ea",
+  "active": "d46bc7c172201ffd",
   "lastOpenFiles": [
-    "Herramientas HACKING/Samba/smbmap/Commandos.md",
+    "WINDOWS/SERVER",
+    "WINDOWS/DHCP",
+    "WINDOWS/AD",
+    "WINDOWS/Untitled.md",
+    "Enlaces de Interés/Enlaces de interés.md",
+    "LINUX/Comandos.md",
     "Herramientas HACKING/Samba/smbclient/Comandos.md",
+    "Parrot Os/prueba.md",
+    "LINUX",
+    "WINDOWS",
+    "Untitled.md",
+    "SERVIDOR S.O.",
+    "Escritorio",
+    "Herramientas HACKING/Samba/smbmap/Commandos.md",
     "Herramientas HACKING/Samba/smbmap",
     "Herramientas HACKING/Samba/Untitled.md",
     "Herramientas HACKING/Samba/smbclient",
@@ -160,18 +172,11 @@
     "Herramientas HACKING/Certificados/sslyze/Comandos.md",
     "Herramientas HACKING/Certificados/sslscan",
     "Herramientas HACKING/Certificados/Openssl/Commandos.md",
-    "Herramientas HACKING/Certificados/sslyze",
     "EC-Council/Ethical Hacking Essentials/prueba.md",
-    "Herramientas HACKING/Certificados/Openssl",
-    "Herramientas HACKING/Certificados",
-    "Virtualización",
-    "Enlaces de Interés/Enlaces de interés.md",
     "Herramientas HACKING/Fuerza Bruta/Hydra/¿Qué es?.md",
     "Herramientas REDES/ARP-SCAN/Comandos.md",
     "Herramientas REDES/ARP-SCAN/¿Qué es?.md",
     "Herramientas HACKING/Fuerza Bruta/Hydra/Comandos.md",
-    "Herramientas HACKING/Fuerza Bruta/Hydra",
-    "Herramientas HACKING/Fuerza Bruta",
     "Virtualización/DOCKER/Comandos.md",
     "Herramientas HACKING/LISTADO DE SUBDOMINIOS/gobuster/Comandos.md",
     "Herramientas HACKING/Forenxia/Metadatos - Archivos/exiftool/Comandos.md",
@@ -179,9 +184,6 @@
     "Herramientas HACKING/LISTADO DE SUBDOMINIOS/CTFR/Comandos.md",
     "Herramientas HACKING/LISTADO DE SUBDOMINIOS/Sublist3r/COMANDOS.md",
     "Herramientas HACKING/Redes/Nmap/SCRIPTS.md",
-    "Cisco/CCNA/Router/MODO ENA.md",
-    "Cisco/CCNA/Router/MODO CONFIG.md",
-    "Cisco/CCNA/Swtich L2 y L3/MODO ENA.md",
-    "Cisco/CCNA/Swtich L2 y L3/MODO CONFIG.md"
+    "Cisco/CCNA/Router/MODO ENA.md"
   ]
 }
