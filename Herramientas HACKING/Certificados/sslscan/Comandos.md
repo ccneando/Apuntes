@@ -1,0 +1,1 @@
+sslscan xxx.xx (dominio del que quieres analizar el certificado )
