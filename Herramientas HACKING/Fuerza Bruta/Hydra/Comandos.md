@@ -1,0 +1,1 @@
+hydra -l XXXX (usuario si lo tenemos) -P XXXX (ruta del diccionario de FB) ssh://xxx.xxx.xxx.xxx (ip donde quieres conectarte ) -s (nº de puerto si fuera diferente) -t XXX (hijos de procesamiento)
