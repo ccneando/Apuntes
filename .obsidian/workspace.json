@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Herramientas HACKING/Samba/smbmap/Commandos.md",
+                "file": "Herramientas HACKING/Samba/smbclient/Comandos.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Herramientas HACKING/Samba/smbmap/Commandos.md",
+                "file": "Herramientas HACKING/Samba/smbclient/Comandos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Herramientas HACKING/Samba/smbmap/Commandos.md",
+                "file": "Herramientas HACKING/Samba/smbclient/Comandos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Herramientas HACKING/Samba/smbmap/Commandos.md"
+                "file": "Herramientas HACKING/Samba/smbclient/Comandos.md"
               }
             }
           }
@@ -147,10 +147,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d46bc7c172201ffd",
+  "active": "90ffa6cd36cf24ea",
   "lastOpenFiles": [
-    "Herramientas HACKING/Samba/smbclient/Comandos.md",
     "Herramientas HACKING/Samba/smbmap/Commandos.md",
+    "Herramientas HACKING/Samba/smbclient/Comandos.md",
     "Herramientas HACKING/Samba/smbmap",
     "Herramientas HACKING/Samba/Untitled.md",
     "Herramientas HACKING/Samba/smbclient",
