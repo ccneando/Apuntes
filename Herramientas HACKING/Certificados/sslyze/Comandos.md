@@ -1,0 +1,1 @@
+sslyze xxxx.xxxx (dominio  del que quieres analizar el certificado )
