@@ -49,3 +49,6 @@ docker rmi $(docker images -q)
 -p XX:XX  (le indicas que el puerto de la máquina es la de origen del container  )
 
 -v XXXXXX:XXXXXX (ruta que quieres tener montada en la ruta de dentro del container)
+
+docker volume ls (listas los volumenes de docker)
+docker volume rm XXXX (nombre del volumen a borrar)
