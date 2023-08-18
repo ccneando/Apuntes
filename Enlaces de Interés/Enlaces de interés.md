@@ -23,3 +23,7 @@ https://github.com/Porchetta-Industries/CrackMapExec
 https://github.com/vulhub/vulhub
 
 https://github.com/vavkamil/dvwp
+
+https://github.com/swisskyrepo/PayloadsAllTheThings
+
+https://github.com/kaonashi-passwords/Kaonashi/
