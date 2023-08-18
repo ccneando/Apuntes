@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMS/Wordpress/wpscan/¿Qué es?.md",
+                "file": "Herramientas HACKING/CMS/Wordpress/wpscan/Comandos.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CMS/Wordpress/wpscan/¿Qué es?.md",
+                "file": "Herramientas HACKING/CMS/Wordpress/wpscan/Comandos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CMS/Wordpress/wpscan/¿Qué es?.md",
+                "file": "Herramientas HACKING/CMS/Wordpress/wpscan/Comandos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CMS/Wordpress/wpscan/¿Qué es?.md"
+                "file": "Herramientas HACKING/CMS/Wordpress/wpscan/Comandos.md"
               }
             }
           }
@@ -149,14 +149,18 @@
   },
   "active": "d46bc7c172201ffd",
   "lastOpenFiles": [
-    "CMS/Wordpress/wpscan/Comandos.md",
-    "CMS/Wordpress/wpscan/¿Qué es?.md",
+    "Herramientas HACKING/Tecnologías web/Exploit-DB/Comandos.md",
+    "Herramientas HACKING/Tecnologías web/Exploit-DB/¿Qué es?.md",
+    "Virtualización/DOCKER/Comandos.md",
+    "Herramientas HACKING/Tecnologías web/Exploit-DB",
+    "Herramientas HACKING/CMS/Wordpress/wpscan/Comandos.md",
+    "Herramientas HACKING/CMS/Wordpress/wpscan/¿Qué es?.md",
     "Enlaces de Interés/Enlaces de interés.md",
-    "CMS/Wordpress/wpscan",
-    "CMS/Dropal",
-    "CMS/Joomla",
-    "CMS/Wordpress",
-    "CMS",
+    "Herramientas HACKING/CMS/Wordpress/wpscan",
+    "Herramientas HACKING/CMS/Dropal",
+    "Herramientas HACKING/CMS/Joomla",
+    "Herramientas HACKING/CMS/Wordpress",
+    "Herramientas HACKING/CMS",
     "WINDOWS/SERVER",
     "WINDOWS/DHCP",
     "WINDOWS/AD",
@@ -165,7 +169,6 @@
     "Herramientas HACKING/Samba/smbclient/Comandos.md",
     "Parrot Os/prueba.md",
     "LINUX",
-    "WINDOWS",
     "Untitled.md",
     "Herramientas HACKING/Samba/smbmap/Commandos.md",
     "Herramientas HACKING/Samba/Untitled.md",
@@ -178,12 +181,9 @@
     "Herramientas REDES/ARP-SCAN/Comandos.md",
     "Herramientas REDES/ARP-SCAN/¿Qué es?.md",
     "Herramientas HACKING/Fuerza Bruta/Hydra/Comandos.md",
-    "Virtualización/DOCKER/Comandos.md",
     "Herramientas HACKING/LISTADO DE SUBDOMINIOS/gobuster/Comandos.md",
     "Herramientas HACKING/Forenxia/Metadatos - Archivos/exiftool/Comandos.md",
     "Herramientas HACKING/Tecnologías web/Whatweb/Commando.md",
-    "Herramientas HACKING/LISTADO DE SUBDOMINIOS/CTFR/Comandos.md",
-    "Herramientas HACKING/LISTADO DE SUBDOMINIOS/Sublist3r/COMANDOS.md",
-    "Herramientas HACKING/Redes/Nmap/SCRIPTS.md"
+    "Herramientas HACKING/LISTADO DE SUBDOMINIOS/CTFR/Comandos.md"
   ]
 }
