@@ -1,0 +1,1 @@
+wpscan -url XXXXX (direccion web a analizar)
