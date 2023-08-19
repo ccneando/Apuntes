@@ -147,8 +147,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d46bc7c172201ffd",
+  "active": "90ffa6cd36cf24ea",
   "lastOpenFiles": [
+    "Herramientas HACKING/CMS/Magento",
     "Herramientas HACKING/CMS/Wordpress/wpscan/Comandos.md",
     "Herramientas HACKING/CMS/Wordpress/wpscan/¿Qué es?.md",
     "Enlaces de Interés/Enlaces de interés.md",
@@ -157,7 +158,7 @@
     "Virtualización/DOCKER/Comandos.md",
     "Herramientas HACKING/Tecnologías web/Exploit-DB",
     "Herramientas HACKING/CMS/Wordpress/wpscan",
-    "Herramientas HACKING/CMS/Dropal",
+    "Herramientas HACKING/CMS/Drupal",
     "Herramientas HACKING/CMS/Joomla",
     "Herramientas HACKING/CMS/Wordpress",
     "Herramientas HACKING/CMS",
@@ -183,7 +184,6 @@
     "Herramientas HACKING/Fuerza Bruta/Hydra/Comandos.md",
     "Herramientas HACKING/LISTADO DE SUBDOMINIOS/gobuster/Comandos.md",
     "Herramientas HACKING/Forenxia/Metadatos - Archivos/exiftool/Comandos.md",
-    "Herramientas HACKING/Tecnologías web/Whatweb/Commando.md",
-    "Herramientas HACKING/LISTADO DE SUBDOMINIOS/CTFR/Comandos.md"
+    "Herramientas HACKING/Tecnologías web/Whatweb/Commando.md"
   ]
 }
