@@ -1,0 +1,1 @@
+php magescan.phar scan:all https://example.com (web a escanear)
