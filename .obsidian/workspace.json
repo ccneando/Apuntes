@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d46bc7c172201ffd",
+            "id": "a5f3f400f82b8341",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Enlaces de Interés/Enlaces de interés.md",
-                "mode": "source",
+                "file": "Cisco/CCNA/Router/MODO CONFIG.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Enlaces de Interés/Enlaces de interés.md",
+                "file": "Cisco/CCNA/Router/MODO CONFIG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Enlaces de Interés/Enlaces de interés.md",
+                "file": "Cisco/CCNA/Router/MODO CONFIG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Enlaces de Interés/Enlaces de interés.md"
+                "file": "Cisco/CCNA/Router/MODO CONFIG.md"
               }
             }
           }
@@ -147,12 +147,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "90ffa6cd36cf24ea",
+  "active": "a5f3f400f82b8341",
   "lastOpenFiles": [
+    "Herramientas HACKING/CMS/Magento/Comandos.md",
+    "Cisco/CCNA/Router/MODO CONFIG.md",
+    "Obsidian",
+    "Tareas.md",
+    "Enlaces de Interés/Enlaces de interés.md",
+    "Herramientas HACKING/CMS/Drupal/Comandos.md",
     "Herramientas HACKING/CMS/Magento",
     "Herramientas HACKING/CMS/Wordpress/wpscan/Comandos.md",
     "Herramientas HACKING/CMS/Wordpress/wpscan/¿Qué es?.md",
-    "Enlaces de Interés/Enlaces de interés.md",
     "Herramientas HACKING/Tecnologías web/Exploit-DB/Comandos.md",
     "Herramientas HACKING/Tecnologías web/Exploit-DB/¿Qué es?.md",
     "Virtualización/DOCKER/Comandos.md",
@@ -164,13 +169,10 @@
     "Herramientas HACKING/CMS",
     "WINDOWS/SERVER",
     "WINDOWS/DHCP",
-    "WINDOWS/AD",
     "WINDOWS/Untitled.md",
     "LINUX/Comandos.md",
     "Herramientas HACKING/Samba/smbclient/Comandos.md",
     "Parrot Os/prueba.md",
-    "LINUX",
-    "Untitled.md",
     "Herramientas HACKING/Samba/smbmap/Commandos.md",
     "Herramientas HACKING/Samba/Untitled.md",
     "Herramientas HACKING/Redes/Nmap/COMANDOS.md",
@@ -182,8 +184,6 @@
     "Herramientas REDES/ARP-SCAN/Comandos.md",
     "Herramientas REDES/ARP-SCAN/¿Qué es?.md",
     "Herramientas HACKING/Fuerza Bruta/Hydra/Comandos.md",
-    "Herramientas HACKING/LISTADO DE SUBDOMINIOS/gobuster/Comandos.md",
-    "Herramientas HACKING/Forenxia/Metadatos - Archivos/exiftool/Comandos.md",
-    "Herramientas HACKING/Tecnologías web/Whatweb/Commando.md"
+    "Herramientas HACKING/LISTADO DE SUBDOMINIOS/gobuster/Comandos.md"
   ]
 }
