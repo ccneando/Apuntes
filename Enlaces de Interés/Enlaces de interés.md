@@ -27,3 +27,5 @@ https://github.com/vavkamil/dvwp
 https://github.com/swisskyrepo/PayloadsAllTheThings
 
 https://github.com/kaonashi-passwords/Kaonashi/
+https://github.com/SamJoan/droopescan
+https://github.com/steverobbins/magescan](https://github.com/steverobbins/magescan
