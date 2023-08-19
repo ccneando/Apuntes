@@ -29,3 +29,6 @@ https://github.com/swisskyrepo/PayloadsAllTheThings
 https://github.com/kaonashi-passwords/Kaonashi/
 https://github.com/SamJoan/droopescan
 https://github.com/steverobbins/magescan](https://github.com/steverobbins/magescan
+https://github.com/appsecco/sqlinjection-training-app
+https://github.com/diego-treitos/linux-smart-enumeration
+https://github.com/DominicBreuker/pspy
