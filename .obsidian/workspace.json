@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Enlaces de Interés/Enlaces de interés.md",
+                "file": "Herramientas HACKING/BurpSuite/Comandos.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Enlaces de Interés/Enlaces de interés.md",
+                "file": "Herramientas HACKING/BurpSuite/Comandos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Enlaces de Interés/Enlaces de interés.md",
+                "file": "Herramientas HACKING/BurpSuite/Comandos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Enlaces de Interés/Enlaces de interés.md"
+                "file": "Herramientas HACKING/BurpSuite/Comandos.md"
               }
             }
           }
@@ -149,6 +149,9 @@
   },
   "active": "f817087ddcff5bcd",
   "lastOpenFiles": [
+    "Enlaces de Interés/Enlaces de interés.md",
+    "Herramientas HACKING/BurpSuite/Comandos.md",
+    "Herramientas HACKING/BurpSuite",
     "Herramientas HACKING/Payloads/Comandos.md",
     "LINUX/Firewall/iptables/Comandos.md",
     "Herramientas HACKING/Payloads",
@@ -167,14 +170,12 @@
     "Herramientas HACKING/CMS/Magento/Comandos.md",
     "Obsidian",
     "Tareas.md",
-    "Enlaces de Interés/Enlaces de interés.md",
     "Herramientas HACKING/CMS/Drupal/Comandos.md",
     "Herramientas HACKING/CMS/Magento",
     "Herramientas HACKING/CMS/Wordpress/wpscan/Comandos.md",
     "Herramientas HACKING/CMS/Wordpress/wpscan/¿Qué es?.md",
     "Herramientas HACKING/Tecnologías web/Exploit-DB/Comandos.md",
     "Herramientas HACKING/Tecnologías web/Exploit-DB/¿Qué es?.md",
-    "Herramientas HACKING/Tecnologías web/Exploit-DB",
     "WINDOWS/Untitled.md",
     "LINUX/Comandos.md",
     "Herramientas HACKING/Samba/smbclient/Comandos.md",
@@ -183,7 +184,6 @@
     "Herramientas HACKING/Samba/Untitled.md",
     "Herramientas HACKING/Redes/Nmap/COMANDOS.md",
     "Herramientas HACKING/Certificados/sslscan/Comandos.md",
-    "Herramientas HACKING/Certificados/sslyze/Comandos.md",
-    "Herramientas HACKING/Certificados/Openssl/Commandos.md"
+    "Herramientas HACKING/Certificados/sslyze/Comandos.md"
   ]
 }
