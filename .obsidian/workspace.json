@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LINUX/SHELL/Bind Shell/Comandos.md",
+                "file": "Virtualización/DOCKER/Comandos.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LINUX/SHELL/Bind Shell/Comandos.md",
+                "file": "Virtualización/DOCKER/Comandos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LINUX/SHELL/Bind Shell/Comandos.md",
+                "file": "Virtualización/DOCKER/Comandos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LINUX/SHELL/Bind Shell/Comandos.md"
+                "file": "Virtualización/DOCKER/Comandos.md"
               }
             }
           }
@@ -149,9 +149,9 @@
   },
   "active": "f817087ddcff5bcd",
   "lastOpenFiles": [
+    "LINUX/SHELL/Fordward shell/Comandos.md",
     "LINUX/SHELL/Reverse Shell/Comandos.md",
     "LINUX/SHELL/Bind Shell/Comandos.md",
-    "LINUX/SHELL/Fordward shell/Comandos.md",
     "LINUX/SHELL/Fordward shell",
     "LINUX/SHELL/Bind Shell",
     "Cisco/CCNA/Swtich L2 y L3/MODO CONFIG.md",
