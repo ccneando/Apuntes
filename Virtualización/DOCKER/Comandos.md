@@ -52,3 +52,4 @@ docker rmi $(docker images -q)
 
 docker volume ls (listas los volumenes de docker)
 docker volume rm XXXX (nombre del volumen a borrar)
+
