@@ -1,0 +1,1 @@
+droopescan scan drupal --url https://example.com (web a escanear)
