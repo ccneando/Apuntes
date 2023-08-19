@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Virtualización/DOCKER/Comandos.md",
+                "file": "Enlaces de Interés/Enlaces de interés.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Virtualización/DOCKER/Comandos.md",
+                "file": "Enlaces de Interés/Enlaces de interés.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Virtualización/DOCKER/Comandos.md",
+                "file": "Enlaces de Interés/Enlaces de interés.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Virtualización/DOCKER/Comandos.md"
+                "file": "Enlaces de Interés/Enlaces de interés.md"
               }
             }
           }
@@ -149,6 +149,12 @@
   },
   "active": "f817087ddcff5bcd",
   "lastOpenFiles": [
+    "Herramientas HACKING/Payloads/Comandos.md",
+    "LINUX/Firewall/iptables/Comandos.md",
+    "Herramientas HACKING/Payloads",
+    "Virtualización/DOCKER/Comandos.md",
+    "LINUX/Firewall/iptables",
+    "LINUX/Firewall",
     "LINUX/SHELL/Fordward shell/Comandos.md",
     "LINUX/SHELL/Reverse Shell/Comandos.md",
     "LINUX/SHELL/Bind Shell/Comandos.md",
@@ -168,11 +174,7 @@
     "Herramientas HACKING/CMS/Wordpress/wpscan/¿Qué es?.md",
     "Herramientas HACKING/Tecnologías web/Exploit-DB/Comandos.md",
     "Herramientas HACKING/Tecnologías web/Exploit-DB/¿Qué es?.md",
-    "Virtualización/DOCKER/Comandos.md",
     "Herramientas HACKING/Tecnologías web/Exploit-DB",
-    "Herramientas HACKING/CMS/Wordpress/wpscan",
-    "Herramientas HACKING/CMS/Drupal",
-    "Herramientas HACKING/CMS/Joomla",
     "WINDOWS/Untitled.md",
     "LINUX/Comandos.md",
     "Herramientas HACKING/Samba/smbclient/Comandos.md",
@@ -182,8 +184,6 @@
     "Herramientas HACKING/Redes/Nmap/COMANDOS.md",
     "Herramientas HACKING/Certificados/sslscan/Comandos.md",
     "Herramientas HACKING/Certificados/sslyze/Comandos.md",
-    "Herramientas HACKING/Certificados/Openssl/Commandos.md",
-    "EC-Council/Ethical Hacking Essentials/prueba.md",
-    "Herramientas HACKING/Fuerza Bruta/Hydra/¿Qué es?.md"
+    "Herramientas HACKING/Certificados/Openssl/Commandos.md"
   ]
 }
