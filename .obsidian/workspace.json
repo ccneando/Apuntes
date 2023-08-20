@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Herramientas HACKING/BBDD/SQLi/Comandos.md",
+                "file": "BBDD/Maria DB/Comandos.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Herramientas HACKING/BBDD/SQLi/Comandos.md",
+                "file": "BBDD/Maria DB/Comandos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Herramientas HACKING/BBDD/SQLi/Comandos.md",
+                "file": "BBDD/Maria DB/Comandos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Herramientas HACKING/BBDD/SQLi/Comandos.md"
+                "file": "BBDD/Maria DB/Comandos.md"
               }
             }
           }
@@ -149,8 +149,11 @@
   },
   "active": "f817087ddcff5bcd",
   "lastOpenFiles": [
-    "Herramientas HACKING/LISTADO DE SUBDOMINIOS/gobuster/Comandos.md",
     "Herramientas HACKING/BBDD/SQLi/Comandos.md",
+    "BBDD/Maria DB/Comandos.md",
+    "BBDD/Maria DB",
+    "BBDD",
+    "Herramientas HACKING/LISTADO DE SUBDOMINIOS/gobuster/Comandos.md",
     "Herramientas HACKING/BBDD/SQLi",
     "Herramientas HACKING/BBDD",
     "Herramientas HACKING/BurpSuite/Comandos.md",
@@ -168,8 +171,6 @@
     "LINUX/SHELL/Fordward shell",
     "LINUX/SHELL/Bind Shell",
     "Cisco/CCNA/Swtich L2 y L3/MODO CONFIG.md",
-    "LINUX/SHELL/Reverse Shell",
-    "LINUX/SHELL",
     "Cisco/CCNA/Router/MODO CONFIG.md",
     "Herramientas HACKING/CMS/Magento/Comandos.md",
     "Tareas.md",
@@ -183,7 +184,6 @@
     "Herramientas HACKING/Samba/smbclient/Comandos.md",
     "Parrot Os/prueba.md",
     "Herramientas HACKING/Samba/smbmap/Commandos.md",
-    "Herramientas HACKING/Samba/Untitled.md",
-    "Herramientas HACKING/Redes/Nmap/COMANDOS.md"
+    "Herramientas HACKING/Samba/Untitled.md"
   ]
 }
