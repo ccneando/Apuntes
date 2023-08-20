@@ -26,10 +26,14 @@ create table users(id int(32), username varchar(32), password varchar(32));
 -Insertar datos
 insert into users(id, username, password) values(1, "admin", "admin123$!");
 
-insert into "tabla"(columna1, columna2, columna3) value(dato1, dato2, dato3)(2, omar, pocholo); 
+insert into "tabla"(columna1, columna2, columna3) value("dato1", "dato2", "dato3")(2, omar, pocholo); 
 
 -Crear usuario
 create user "xxx"@"localhost" identified by "password";
 
 -Dar acceso completo a un usuario a una BBDD
 grant all privileges on xxxx.*(nombre de la BBDD) to "user"@"l"ocalhost"
+
+
+_ver los datos de una tabla 
+select * from xxxx; (nombre de la tabla)
