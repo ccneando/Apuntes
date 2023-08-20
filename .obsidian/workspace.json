@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Herramientas HACKING/BurpSuite/Comandos.md",
+                "file": "Herramientas HACKING/BBDD/SQLi/Comandos.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Herramientas HACKING/BurpSuite/Comandos.md",
+                "file": "Herramientas HACKING/BBDD/SQLi/Comandos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Herramientas HACKING/BurpSuite/Comandos.md",
+                "file": "Herramientas HACKING/BBDD/SQLi/Comandos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Herramientas HACKING/BurpSuite/Comandos.md"
+                "file": "Herramientas HACKING/BBDD/SQLi/Comandos.md"
               }
             }
           }
@@ -149,8 +149,12 @@
   },
   "active": "f817087ddcff5bcd",
   "lastOpenFiles": [
-    "Enlaces de Interés/Enlaces de interés.md",
+    "Herramientas HACKING/LISTADO DE SUBDOMINIOS/gobuster/Comandos.md",
+    "Herramientas HACKING/BBDD/SQLi/Comandos.md",
+    "Herramientas HACKING/BBDD/SQLi",
+    "Herramientas HACKING/BBDD",
     "Herramientas HACKING/BurpSuite/Comandos.md",
+    "Enlaces de Interés/Enlaces de interés.md",
     "Herramientas HACKING/BurpSuite",
     "Herramientas HACKING/Payloads/Comandos.md",
     "LINUX/Firewall/iptables/Comandos.md",
@@ -168,10 +172,8 @@
     "LINUX/SHELL",
     "Cisco/CCNA/Router/MODO CONFIG.md",
     "Herramientas HACKING/CMS/Magento/Comandos.md",
-    "Obsidian",
     "Tareas.md",
     "Herramientas HACKING/CMS/Drupal/Comandos.md",
-    "Herramientas HACKING/CMS/Magento",
     "Herramientas HACKING/CMS/Wordpress/wpscan/Comandos.md",
     "Herramientas HACKING/CMS/Wordpress/wpscan/¿Qué es?.md",
     "Herramientas HACKING/Tecnologías web/Exploit-DB/Comandos.md",
@@ -182,8 +184,6 @@
     "Parrot Os/prueba.md",
     "Herramientas HACKING/Samba/smbmap/Commandos.md",
     "Herramientas HACKING/Samba/Untitled.md",
-    "Herramientas HACKING/Redes/Nmap/COMANDOS.md",
-    "Herramientas HACKING/Certificados/sslscan/Comandos.md",
-    "Herramientas HACKING/Certificados/sslyze/Comandos.md"
+    "Herramientas HACKING/Redes/Nmap/COMANDOS.md"
   ]
 }
