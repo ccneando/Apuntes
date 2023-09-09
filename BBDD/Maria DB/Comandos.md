@@ -3,9 +3,11 @@ varchar= cadena de caracteres variables(xxx) cantidad de bits a almacenar
 show databases; (muestra la base de datos)
 show tables; (muestra las tablas de una base de datos)
 where (donde buscar)
-use xxx; (bbdd a la que quieres acceder)
+use xxx; (bbdd a la use uieres acceder)
 
 describe xxxx; (nombre de la columna a la que acceder)
+_ver los datos de una tabla 
+select * from xxxx; (nombre de la tabla)
 
 Select xxx (columna) xxx (columna) from xxxx; (la tabla)
 
@@ -35,5 +37,3 @@ create user "xxx"@"localhost" identified by "password";
 grant all privileges on xxxx.*(nombre de la BBDD) to "user"@"l"ocalhost"
 
 
-_ver los datos de una tabla 
-select * from xxxx; (nombre de la tabla)
